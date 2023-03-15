@@ -1,0 +1,38 @@
+{
+  "term": "Spring",
+  "year": "2022",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Accounting"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "site14"
+  },
+  "course_image": {
+    "content": "",
+    "website": "site14"
+  },
+  "course_title": "site14",
+  "course_description": "site14",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "14",
+  "primary_course_number": "14",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "site14"
+  },
+  "learning_resource_types": [
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "ca876de5-0832-4166-8fce-d3104b9b0a25",
+  "site_short_id": "site14"
+}
